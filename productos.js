@@ -43,7 +43,7 @@ const productos = [
         id: 6,
         nombre: "Esplas",
         precio: 3000,
-        imagen: "imagenes/Esplas.jpg",
+        imagen: "imagenes/TETE.jpg",
         descripcion: "Larga duracion."
     },
 
