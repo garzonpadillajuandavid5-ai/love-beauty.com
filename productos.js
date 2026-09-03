@@ -41,10 +41,10 @@ const productos = [
 
     {
         id: 6,
-        nombre: "Labial de hombre",
+        nombre: "Esplas",
         precio: 3000,
-        imagen: "imagenes/labial-hombre.jpg",
-        descripcion: "Labial de acabado natural."
+        imagen: "imagenes/Esplas.jpeg",
+        descripcion: "Larga duracion."
     },
 
 ];
